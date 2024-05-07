@@ -1,0 +1,112 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.11.25) (preloaded format=latex 2022.12.5)  5 DEC 2022 13:36
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./units.ins
+(units.ins
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2022-11-02>
+(C:\Users\ericy\AppData\Local\Programs\MiKTeX\tex/latex/base\docstrip.tex
+\blockLevel=\count185
+\emptyLines=\count186
+\processedLines=\count187
+\commentsRemoved=\count188
+\commentsPassed=\count189
+\codeLinesPassed=\count190
+\TotalprocessedLines=\count191
+\TotalcommentsRemoved=\count192
+\TotalcommentsPassed=\count193
+\TotalcodeLinesPassed=\count194
+\NumberOfFiles=\count195
+\inFile=\read2
+\inputcheck=\read3
+\off@0=\count196
+\off@1=\count197
+\off@2=\count198
+\off@3=\count199
+\off@4=\count266
+\off@5=\count267
+\off@6=\count268
+\off@7=\count269
+\off@8=\count270
+\off@9=\count271
+\off@10=\count272
+\off@11=\count273
+\off@12=\count274
+\off@13=\count275
+\off@14=\count276
+\off@15=\count277
+\@maxfiles=\count278
+\@maxoutfiles=\count279
+
+Utility: `docstrip' v2.6b <2022-09-03>
+English documentation    <2022-09-03>
+
+**********************************************************
+* This program converts documented macro-files into fast *
+* loadable files by stripping off (nearly) all comments! *
+**********************************************************
+
+********************************************************
+* No Configuration file found, using default settings. *
+********************************************************
+
+(units.ins
+
+Generating file(s) ./units.sty 
+\openout0 = `./units.sty'.
+
+
+Processing file units.dtx (units) -> units.sty
+File units.dtx ended by \endinput.
+Lines  processed: 604
+Comments removed: 434
+Comments  passed: 15
+Codelines passed: 149
+
+
+Generating file(s) ./nicefrac.sty 
+\openout0 = `./nicefrac.sty'.
+
+
+Processing file units.dtx (nicefrac) -> nicefrac.sty
+File units.dtx ended by \endinput.
+Lines  processed: 604
+Comments removed: 434
+Comments  passed: 15
+Codelines passed: 149
+
+**************************************************************
+*
+* To finish the installation you have to move the following
+* files into a directory searched by LaTeX:
+*
+*   units.sty
+*   nicefrac.sty
+*
+* To produce the documentation run the following files
+* through LaTeX:
+*
+*   units.dtx
+*
+* Happy TeXing!
+*
+**************************************************************
+)
+Overall statistics:
+Files  processed: 2
+Lines  processed: 1208
+Comments removed: 868
+Comments  passed: 30
+Codelines passed: 298
+ ) ) 
+Here is how much of TeX's memory you used:
+ 346 strings out of 475282
+ 3736 string characters out of 2774091
+ 349100 words of memory out of 3000000
+ 21923 multiletter control sequences out of 15000+600000
+ 469259 words of font info for 28 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 16i,0n,18p,195b,124s stack positions out of 10000i,1000n,20000p,200000b,80000s
+
+No pages of output.
